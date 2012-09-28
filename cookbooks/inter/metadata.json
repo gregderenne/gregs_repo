@@ -1,0 +1,30 @@
+{
+  "attributes": {
+  },
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "license": "All rights reserved",
+  "replacing": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "maintainer": "YOUR_COMPANY_NAME",
+  "description": "Installs/Configures inter",
+  "version": "0.0.1",
+  "recipes": {
+    "inter::default": "Logs basic hello world and RS rocks output"
+  },
+  "name": "inter",
+  "recommendations": {
+  },
+  "groupings": {
+  },
+  "providing": {
+  },
+  "dependencies": {
+  },
+  "conflicting": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n"
+}
